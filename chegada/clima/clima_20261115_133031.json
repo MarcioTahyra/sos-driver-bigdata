@@ -1,0 +1,146 @@
+[
+    {
+        "data_hora": "2026-11-15 00:00",
+        "temperatura": 18.1,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 01:00",
+        "temperatura": 17.8,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 02:00",
+        "temperatura": 17.7,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 03:00",
+        "temperatura": 18.0,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 04:00",
+        "temperatura": 17.6,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 05:00",
+        "temperatura": 17.5,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 06:00",
+        "temperatura": 17.8,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 07:00",
+        "temperatura": 19.1,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 08:00",
+        "temperatura": 20.5,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 09:00",
+        "temperatura": 23.4,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 10:00",
+        "temperatura": 25.5,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 11:00",
+        "temperatura": 27.1,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 12:00",
+        "temperatura": 28.3,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 13:00",
+        "temperatura": 29.0,
+        "precipitacao": 0.0,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 14:00",
+        "temperatura": 29.0,
+        "precipitacao": 0.1,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 15:00",
+        "temperatura": 22.2,
+        "precipitacao": 5.3,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 16:00",
+        "temperatura": 21.5,
+        "precipitacao": 1.6,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 17:00",
+        "temperatura": 22.6,
+        "precipitacao": 0.6,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 18:00",
+        "temperatura": 22.4,
+        "precipitacao": 0.1,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 19:00",
+        "temperatura": 22.0,
+        "precipitacao": 0.1,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 20:00",
+        "temperatura": 20.4,
+        "precipitacao": 1.6,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 21:00",
+        "temperatura": 19.3,
+        "precipitacao": 4.2,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 22:00",
+        "temperatura": 19.2,
+        "precipitacao": 1.5,
+        "cidade": "São Paulo"
+    },
+    {
+        "data_hora": "2026-11-15 23:00",
+        "temperatura": 18.8,
+        "precipitacao": 0.8,
+        "cidade": "São Paulo"
+    }
+]

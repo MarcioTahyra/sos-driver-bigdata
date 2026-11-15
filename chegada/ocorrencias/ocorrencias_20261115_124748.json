@@ -1,0 +1,702 @@
+[
+    {
+        "id_ocorrencia": 1,
+        "data_hora": "2026-11-15T18:17:00",
+        "regiao": "Zona Oeste",
+        "servico": "pneu",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 2,
+        "data_hora": "2026-11-15T12:22:00",
+        "regiao": "Zona Leste",
+        "servico": "pneu",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 3,
+        "data_hora": "2026-11-15T01:12:00",
+        "regiao": "Centro",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 4,
+        "data_hora": "2026-11-15T03:21:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 5,
+        "data_hora": "2026-11-15T07:40:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 6,
+        "data_hora": "2026-11-15T16:24:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 7,
+        "data_hora": "2026-11-15T14:26:00",
+        "regiao": "Zona Oeste",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 8,
+        "data_hora": "2026-11-15T03:18:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 9,
+        "data_hora": "2026-11-15T08:28:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 10,
+        "data_hora": "2026-11-15T12:36:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 11,
+        "data_hora": "2026-11-15T04:57:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 12,
+        "data_hora": "2026-11-15T03:01:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 13,
+        "data_hora": "2026-11-15T19:24:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 14,
+        "data_hora": "2026-11-15T17:08:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 15,
+        "data_hora": "2026-11-15T13:36:00",
+        "regiao": "Zona Leste",
+        "servico": "guincho",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 16,
+        "data_hora": "2026-11-15T16:27:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 17,
+        "data_hora": "2026-11-15T17:45:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 18,
+        "data_hora": "2026-11-15T12:59:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 19,
+        "data_hora": "2026-11-15T06:24:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 20,
+        "data_hora": "2026-11-15T07:25:00",
+        "regiao": "Zona Leste",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 21,
+        "data_hora": "2026-11-15T22:46:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 22,
+        "data_hora": "2026-11-15T02:43:00",
+        "regiao": "Zona Oeste",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 23,
+        "data_hora": "2026-11-15T09:45:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 24,
+        "data_hora": "2026-11-15T06:51:00",
+        "regiao": "Zona Leste",
+        "servico": "guincho",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 25,
+        "data_hora": "2026-11-15T23:54:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 26,
+        "data_hora": "2026-11-15T04:57:00",
+        "regiao": "Zona Oeste",
+        "servico": "pane_seca",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 27,
+        "data_hora": "2026-11-15T04:10:00",
+        "regiao": "Zona Oeste",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 28,
+        "data_hora": "2026-11-15T00:22:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 29,
+        "data_hora": "2026-11-15T03:40:00",
+        "regiao": "Zona Sul",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 30,
+        "data_hora": "2026-11-15T04:51:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 31,
+        "data_hora": "2026-11-15T22:17:00",
+        "regiao": "Zona Oeste",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 32,
+        "data_hora": "2026-11-15T13:08:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 33,
+        "data_hora": "2026-11-15T13:48:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 34,
+        "data_hora": "2026-11-15T22:22:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 35,
+        "data_hora": "2026-11-15T01:22:00",
+        "regiao": "Centro",
+        "servico": "guincho",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 36,
+        "data_hora": "2026-11-15T08:09:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 37,
+        "data_hora": "2026-11-15T12:19:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 38,
+        "data_hora": "2026-11-15T03:01:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 39,
+        "data_hora": "2026-11-15T19:02:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 40,
+        "data_hora": "2026-11-15T09:44:00",
+        "regiao": "Zona Oeste",
+        "servico": "pneu",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 41,
+        "data_hora": "2026-11-15T09:23:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 42,
+        "data_hora": "2026-11-15T19:56:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 43,
+        "data_hora": "2026-11-15T00:36:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 44,
+        "data_hora": "2026-11-15T10:07:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 45,
+        "data_hora": "2026-11-15T07:34:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 46,
+        "data_hora": "2026-11-15T13:48:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 47,
+        "data_hora": "2026-11-15T08:01:00",
+        "regiao": "Zona Norte",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 48,
+        "data_hora": "2026-11-15T04:29:00",
+        "regiao": "Centro",
+        "servico": "guincho",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 49,
+        "data_hora": "2026-11-15T17:50:00",
+        "regiao": "Zona Leste",
+        "servico": "pneu",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 50,
+        "data_hora": "2026-11-15T14:12:00",
+        "regiao": "Zona Sul",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 51,
+        "data_hora": "2026-11-15T01:08:00",
+        "regiao": "Zona Oeste",
+        "servico": "pneu",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 52,
+        "data_hora": "2026-11-15T22:48:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 53,
+        "data_hora": "2026-11-15T05:58:00",
+        "regiao": "Zona Norte",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 54,
+        "data_hora": "2026-11-15T02:33:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 55,
+        "data_hora": "2026-11-15T12:59:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 56,
+        "data_hora": "2026-11-15T10:15:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 57,
+        "data_hora": "2026-11-15T04:16:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 58,
+        "data_hora": "2026-11-15T00:41:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 59,
+        "data_hora": "2026-11-15T07:19:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 60,
+        "data_hora": "2026-11-15T06:46:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 61,
+        "data_hora": "2026-11-15T18:01:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 62,
+        "data_hora": "2026-11-15T23:46:00",
+        "regiao": "Zona Oeste",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 63,
+        "data_hora": "2026-11-15T14:16:00",
+        "regiao": "Zona Norte",
+        "servico": "pneu",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 64,
+        "data_hora": "2026-11-15T10:17:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 65,
+        "data_hora": "2026-11-15T05:39:00",
+        "regiao": "Centro",
+        "servico": "pneu",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 66,
+        "data_hora": "2026-11-15T17:29:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 67,
+        "data_hora": "2026-11-15T16:10:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 68,
+        "data_hora": "2026-11-15T08:59:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 69,
+        "data_hora": "2026-11-15T13:30:00",
+        "regiao": "Centro",
+        "servico": "pneu",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 70,
+        "data_hora": "2026-11-15T18:39:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 71,
+        "data_hora": "2026-11-15T00:25:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 72,
+        "data_hora": "2026-11-15T02:58:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 73,
+        "data_hora": "2026-11-15T01:12:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 74,
+        "data_hora": "2026-11-15T21:04:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 75,
+        "data_hora": "2026-11-15T19:30:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 76,
+        "data_hora": "2026-11-15T01:47:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 77,
+        "data_hora": "2026-11-15T11:11:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 78,
+        "data_hora": "2026-11-15T16:39:00",
+        "regiao": "Centro",
+        "servico": "guincho",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 79,
+        "data_hora": "2026-11-15T01:32:00",
+        "regiao": "Zona Oeste",
+        "servico": "pane_seca",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 80,
+        "data_hora": "2026-11-15T18:52:00",
+        "regiao": "Centro",
+        "servico": "guincho",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 81,
+        "data_hora": "2026-11-15T20:42:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 82,
+        "data_hora": "2026-11-15T02:05:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 83,
+        "data_hora": "2026-11-15T07:16:00",
+        "regiao": "Centro",
+        "servico": "pneu",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 84,
+        "data_hora": "2026-11-15T04:29:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 85,
+        "data_hora": "2026-11-15T03:40:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 86,
+        "data_hora": "2026-11-15T12:23:00",
+        "regiao": "Zona Oeste",
+        "servico": "pneu",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 87,
+        "data_hora": "2026-11-15T15:57:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 88,
+        "data_hora": "2026-11-15T09:48:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 89,
+        "data_hora": "2026-11-15T20:40:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 90,
+        "data_hora": "2026-11-15T06:59:00",
+        "regiao": "Zona Leste",
+        "servico": "guincho",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 91,
+        "data_hora": "2026-11-15T03:13:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 92,
+        "data_hora": "2026-11-15T19:17:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 93,
+        "data_hora": "2026-11-15T13:46:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 94,
+        "data_hora": "2026-11-15T09:38:00",
+        "regiao": "Centro",
+        "servico": "pneu",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 95,
+        "data_hora": "2026-11-15T17:51:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 96,
+        "data_hora": "2026-11-15T18:25:00",
+        "regiao": "Zona Oeste",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 97,
+        "data_hora": "2026-11-15T15:53:00",
+        "regiao": "Zona Sul",
+        "servico": "pane_seca",
+        "status": "aberta"
+    },
+    {
+        "id_ocorrencia": 98,
+        "data_hora": "2026-11-15T22:50:00",
+        "regiao": "Centro",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 99,
+        "data_hora": "2026-11-15T14:19:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "cancelada"
+    },
+    {
+        "id_ocorrencia": 100,
+        "data_hora": "2026-11-15T15:25:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "aberta"
+    }
+]
