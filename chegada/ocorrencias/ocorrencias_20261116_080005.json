@@ -1,0 +1,702 @@
+[
+    {
+        "id_ocorrencia": 3791525907755773055,
+        "data_hora": "2026-11-16 11:41:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 3170034788098210553,
+        "data_hora": "2026-11-16 10:40:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 3705059143182190110,
+        "data_hora": "2026-11-16 11:58:00",
+        "regiao": "Zona Oeste",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 3737824994509931462,
+        "data_hora": "2026-11-16 04:43:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 2179182508356612764,
+        "data_hora": "2026-11-16 15:07:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 1749017723517587909,
+        "data_hora": "2026-11-16 18:57:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 1280518581739684075,
+        "data_hora": "2026-11-16 13:58:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 202650860300203686,
+        "data_hora": "2026-11-16 20:27:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 4119185204001773212,
+        "data_hora": "2026-11-16 02:03:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 3502266660586822599,
+        "data_hora": "2026-11-16 05:05:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 4576332708986900230,
+        "data_hora": "2026-11-16 09:50:00",
+        "regiao": "Zona Leste",
+        "servico": "pneu",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 4516041627259593648,
+        "data_hora": "2026-11-16 18:18:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 4389833119138139697,
+        "data_hora": "2026-11-16 22:37:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 3562691467274424320,
+        "data_hora": "2026-11-16 20:39:00",
+        "regiao": "Zona Oeste",
+        "servico": "guincho",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 3316316408360255181,
+        "data_hora": "2026-11-16 23:45:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 4145445741021029616,
+        "data_hora": "2026-11-16 16:19:00",
+        "regiao": "Centro",
+        "servico": "pneu",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 3469595923745275535,
+        "data_hora": "2026-11-16 15:26:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 3456397287759289635,
+        "data_hora": "2026-11-16 20:38:00",
+        "regiao": "Zona Oeste",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2188711115641022520,
+        "data_hora": "2026-11-16 04:07:00",
+        "regiao": "Zona Oeste",
+        "servico": "bateria",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 3088020872779665186,
+        "data_hora": "2026-11-16 14:11:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 4213247263604614132,
+        "data_hora": "2026-11-16 19:17:00",
+        "regiao": "Zona Norte",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 2406726452734906911,
+        "data_hora": "2026-11-16 17:18:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 1316757431433599264,
+        "data_hora": "2026-11-16 19:36:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 121262528149740377,
+        "data_hora": "2026-11-16 06:06:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 3966354332391612665,
+        "data_hora": "2026-11-16 11:04:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 1063747172953618835,
+        "data_hora": "2026-11-16 04:16:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 246270863333325908,
+        "data_hora": "2026-11-16 00:49:00",
+        "regiao": "Zona Leste",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 22730872518168749,
+        "data_hora": "2026-11-16 20:49:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 298251094559788264,
+        "data_hora": "2026-11-16 06:43:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 3999108928818178921,
+        "data_hora": "2026-11-16 04:36:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 3019722423633715390,
+        "data_hora": "2026-11-16 18:10:00",
+        "regiao": "Zona Oeste",
+        "servico": "pneu",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 4255342633062601629,
+        "data_hora": "2026-11-16 18:52:00",
+        "regiao": "Zona Oeste",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 1699976057541833036,
+        "data_hora": "2026-11-16 11:34:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 2543603302573126398,
+        "data_hora": "2026-11-16 09:10:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 2571741414098985360,
+        "data_hora": "2026-11-16 12:39:00",
+        "regiao": "Zona Leste",
+        "servico": "guincho",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 1667628155099210462,
+        "data_hora": "2026-11-16 11:16:00",
+        "regiao": "Zona Oeste",
+        "servico": "pane_seca",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 2788727359372731695,
+        "data_hora": "2026-11-16 15:15:00",
+        "regiao": "Zona Oeste",
+        "servico": "bateria",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 1899827747439820226,
+        "data_hora": "2026-11-16 11:38:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 879764604556066260,
+        "data_hora": "2026-11-16 23:55:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 460710255896120432,
+        "data_hora": "2026-11-16 00:44:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2947076561108566429,
+        "data_hora": "2026-11-16 08:56:00",
+        "regiao": "Zona Sul",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 3422831257479102897,
+        "data_hora": "2026-11-16 00:09:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 2402975912054588353,
+        "data_hora": "2026-11-16 19:03:00",
+        "regiao": "Zona Oeste",
+        "servico": "pneu",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 2370767381615074725,
+        "data_hora": "2026-11-16 11:25:00",
+        "regiao": "Zona Oeste",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 297536667454792541,
+        "data_hora": "2026-11-16 17:26:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 2291371165792422812,
+        "data_hora": "2026-11-16 17:05:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2936365269193166166,
+        "data_hora": "2026-11-16 05:03:00",
+        "regiao": "Centro",
+        "servico": "guincho",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 110295320610630244,
+        "data_hora": "2026-11-16 01:00:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 1265216316196448723,
+        "data_hora": "2026-11-16 11:10:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 768087090637099728,
+        "data_hora": "2026-11-16 11:03:00",
+        "regiao": "Zona Norte",
+        "servico": "bateria",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 2716264351347645887,
+        "data_hora": "2026-11-16 11:51:00",
+        "regiao": "Centro",
+        "servico": "pneu",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 1669845168379833739,
+        "data_hora": "2026-11-16 01:38:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 3824321362737440028,
+        "data_hora": "2026-11-16 13:37:00",
+        "regiao": "Zona Oeste",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 4481223284865984775,
+        "data_hora": "2026-11-16 12:35:00",
+        "regiao": "Centro",
+        "servico": "guincho",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 4590744119466838746,
+        "data_hora": "2026-11-16 01:15:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 1808357282021684711,
+        "data_hora": "2026-11-16 20:51:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2011352913754904508,
+        "data_hora": "2026-11-16 08:21:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 2946575673289042171,
+        "data_hora": "2026-11-16 17:12:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 1178647769989191443,
+        "data_hora": "2026-11-16 01:44:00",
+        "regiao": "Zona Oeste",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 157233123848473144,
+        "data_hora": "2026-11-16 12:13:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 2117531146933237914,
+        "data_hora": "2026-11-16 18:44:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 3120234151181011667,
+        "data_hora": "2026-11-16 05:08:00",
+        "regiao": "Zona Norte",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 2748920563627976420,
+        "data_hora": "2026-11-16 16:52:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 230168052842404836,
+        "data_hora": "2026-11-16 21:10:00",
+        "regiao": "Zona Oeste",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2625334750848568722,
+        "data_hora": "2026-11-16 22:45:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 3046458180984401572,
+        "data_hora": "2026-11-16 12:51:00",
+        "regiao": "Zona Oeste",
+        "servico": "pane_seca",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 75460957328789882,
+        "data_hora": "2026-11-16 09:26:00",
+        "regiao": "Zona Leste",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2421326499790673850,
+        "data_hora": "2026-11-16 04:02:00",
+        "regiao": "Zona Leste",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 4571575225986412100,
+        "data_hora": "2026-11-16 10:47:00",
+        "regiao": "Zona Leste",
+        "servico": "pneu",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 1594456373565830136,
+        "data_hora": "2026-11-16 15:09:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2431070571086216633,
+        "data_hora": "2026-11-16 00:20:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 3295415675752108683,
+        "data_hora": "2026-11-16 11:15:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 3235421178608675224,
+        "data_hora": "2026-11-16 00:46:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2482242574031312302,
+        "data_hora": "2026-11-16 04:28:00",
+        "regiao": "Zona Leste",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 295504512081248177,
+        "data_hora": "2026-11-16 05:00:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 1495317037440656259,
+        "data_hora": "2026-11-16 18:54:00",
+        "regiao": "Centro",
+        "servico": "pneu",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 480698733494652183,
+        "data_hora": "2026-11-16 09:09:00",
+        "regiao": "Centro",
+        "servico": "pneu",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 951542682180249783,
+        "data_hora": "2026-11-16 18:43:00",
+        "regiao": "Zona Norte",
+        "servico": "pneu",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 1209879817505586892,
+        "data_hora": "2026-11-16 16:45:00",
+        "regiao": "Zona Sul",
+        "servico": "guincho",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 2443155607521441821,
+        "data_hora": "2026-11-16 14:40:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 2989405708354114853,
+        "data_hora": "2026-11-16 04:16:00",
+        "regiao": "Zona Norte",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 2420122251747616746,
+        "data_hora": "2026-11-16 20:22:00",
+        "regiao": "Zona Leste",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 1701253949434573019,
+        "data_hora": "2026-11-16 16:18:00",
+        "regiao": "Zona Oeste",
+        "servico": "guincho",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2623969486806178324,
+        "data_hora": "2026-11-16 21:27:00",
+        "regiao": "Zona Sul",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2946654522643055766,
+        "data_hora": "2026-11-16 12:57:00",
+        "regiao": "Zona Leste",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2407254823189741637,
+        "data_hora": "2026-11-16 04:30:00",
+        "regiao": "Zona Norte",
+        "servico": "guincho",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 2814716068652304569,
+        "data_hora": "2026-11-16 22:28:00",
+        "regiao": "Zona Leste",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 1970674661541061669,
+        "data_hora": "2026-11-16 15:06:00",
+        "regiao": "Zona Oeste",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 1102757586235484450,
+        "data_hora": "2026-11-16 00:20:00",
+        "regiao": "Zona Oeste",
+        "servico": "guincho",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 4576423285496387628,
+        "data_hora": "2026-11-16 09:36:00",
+        "regiao": "Zona Oeste",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 770928327587405872,
+        "data_hora": "2026-11-16 16:41:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 4490519446030638603,
+        "data_hora": "2026-11-16 14:18:00",
+        "regiao": "Zona Oeste",
+        "servico": "pneu",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 3714937178718193311,
+        "data_hora": "2026-11-16 16:28:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2635347209775361728,
+        "data_hora": "2026-11-16 16:29:00",
+        "regiao": "Centro",
+        "servico": "guincho",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 1101475040185092174,
+        "data_hora": "2026-11-16 17:42:00",
+        "regiao": "Centro",
+        "servico": "bateria",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 2056958204500629693,
+        "data_hora": "2026-11-16 21:29:00",
+        "regiao": "Centro",
+        "servico": "pane_seca",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 2933501113950301743,
+        "data_hora": "2026-11-16 06:23:00",
+        "regiao": "Zona Oeste",
+        "servico": "bateria",
+        "status": "concluida"
+    },
+    {
+        "id_ocorrencia": 1024193596059259367,
+        "data_hora": "2026-11-16 20:49:00",
+        "regiao": "Zona Sul",
+        "servico": "bateria",
+        "status": "pendente"
+    },
+    {
+        "id_ocorrencia": 348120385998114223,
+        "data_hora": "2026-11-16 18:57:00",
+        "regiao": "Zona Norte",
+        "servico": "pneu",
+        "status": "em_andamento"
+    },
+    {
+        "id_ocorrencia": 3561866663966775184,
+        "data_hora": "2026-11-16 09:14:00",
+        "regiao": "Zona Norte",
+        "servico": "pane_seca",
+        "status": "em_andamento"
+    }
+]
